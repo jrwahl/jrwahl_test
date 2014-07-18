@@ -10,5 +10,8 @@ public class Test {
 		// Another useless comment.  This is the phase1 version of this comment.
 	}
 	
+	public void devMethod() {
+		// Nothing.
+	}
 
 }
