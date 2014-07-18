@@ -7,7 +7,7 @@ public class Test {
 	 */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		// Another useless comment.
+		// Another useless comment.  This is the phase1 version of this comment.
 	}
 
 }
