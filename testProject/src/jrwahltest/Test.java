@@ -13,5 +13,9 @@ public class Test {
 	public void devMethod() {
 		// Nothing.
 	}
+	
+	public void dev1Method() {
+	    // Nothing.
+	}
 
 }
